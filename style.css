@@ -220,3 +220,107 @@ button{
 
 
 
+
+
+#heroo {
+    height: 50vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    position: relative;
+    margin-left: 90px;
+}
+
+#heroo .container {
+    display: flex;
+    
+    
+   
+}
+
+#heroo .fa-regular.fa-user {
+    font-size: 4em; /* Tamaño del icono */
+    position: absolute; /* Establecer posición absoluta */
+    left: 200px; /* Distancia del borde izquierdo */
+    top: 50px; /* Distancia del borde superior */
+    border-radius: 3px;
+    color:rgb(85, 83, 83);
+    background-color: darkgray;
+}
+
+#heroo .fa-regular.fa-envelope{
+    font-size: 2em; /* Tamaño del icono */
+    position: absolute; /* Establecer posición absoluta */
+    left: 300px; /* Distancia del borde izquierdo */
+    top: 85px; /* Distancia del borde superior */
+}
+
+#heroo .fa-solid.fa-phone{
+    font-size: 1.7em; /* Tamaño del icono */
+    position: absolute; /* Establecer posición absoluta */
+    left: 333px; /* Distancia del borde izquierdo */
+    top: 86px; /* Distancia del borde superior */
+
+}
+#heroo .fa-brands.fa-whatsapp{
+    font-size: 2em; /* Tamaño del icono */
+    position: absolute; /* Establecer posición absoluta */
+    left: 400px; /* Distancia del borde izquierdo */
+    top: 85px; /* Distancia del borde superior */
+}
+
+
+#heroo .h3 {
+    font-size: 1.5em; /* Tamaño del texto */
+    position: absolute;
+    top: 50px; /* Distancia del borde superior */
+    left: 300px; /* Distancia del borde izquierdo */
+}
+
+#personal {
+    height: 50vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    position: relative;
+    margin-left: 90px;  
+}
+
+#personal .container {
+    display: flex;
+    align-items: center; /* Para centrar verticalmente los elementos */
+}
+
+#ayuto {
+    height: 50vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    position: relative;
+    margin-left: 90px;  
+}
+
+#ayuto .container {
+    display: flex;
+    align-items: center; /* Para centrar verticalmente los elementos */
+}
+
+#setting {
+    height: 50vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    position: relative;
+    margin-left: 90px;  
+}
+
+#setting .container {
+    display: flex;
+    align-items: center; /* Para centrar verticalmente los elementos */
+}
+
+
